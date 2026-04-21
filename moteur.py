@@ -1,0 +1,1 @@
+print("Projet 8 lancé avec succes")
